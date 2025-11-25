@@ -5,6 +5,6 @@ Algumas coisas sobre mim:
 
 - 🔭 Hoje, estou focado em desenvolvimento de sites, e sistemas web.
 - 📖 Atualmente, estou desenvolvendo layouts templates e estudando tecnologias novas.
-- 📖 Atualmente, tenho um pacote de sites templates e um site institucional em meu portifólio: <a href="https://www.tfportifolio.com.br/" title="Clique para acessar">Ver Site Portifólio</a>.
+- 📖 Atualmente, tenho um pacote de sites templates e um site institucional em meu portifólio: <a href="https://www.tfportifolio.com.br/" title="Clique para acessar" target="_blank" style="color: rgb(118, 171, 174); text-decoration: none !important;">Ver Site Portifólio</a>.
 - 🌱 Estudando JS, React, React Native e PHP.
 - 📫 Contate-me no email: tfportifolio.com.br
