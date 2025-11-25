@@ -1,10 +1,10 @@
 Opa! Tudo bem? <br>
-Prazer, me chamo Thiago!👋
+Prazer, me chamo Thiago!👋 Trabalho como Web Designer e estou sempre criando layouts e sites inovadores e intuitivos!
 
 Algumas coisas sobre mim:
 
-- 🔭 Hoje, estou focado com projetos front-end e projetos mobile
-- 📖 Atualmente, estou desenvolvendo um projeto WEB (Agendei WEB)
-- 📖 Atualmente, tenho dois projetos WEB e um mobile prontos: [Your Storage](www.yourstorage.x10.mx/homepage/) - **([GitHub Projeto](https://github.com/eothigas/YS_Storage))** e [Hemodat](https://hemodat.x10.mx/) - **([GitHub Projeto](https://github.com/eothigas/Hemodat))** (WEB) | Agendei (Mobile)
-- 🌱 Estudando JS, React (Native) e PHP
-- 📫 Contate-me no email: eothiago20@outlook.com
+- 🔭 Hoje, estou focado em desenvolvimento de sites, e sistemas web.
+- 📖 Atualmente, estou desenvolvendo layouts templates e estudando tecnologias novas.
+- 📖 Atualmente, tenho um pacote de sites templates e um site institucional em meu portifólio: <a href="https://www.tfportifolio.com.br/" title="Clique para acessar">Ver Site Portifólio</a>.
+- 🌱 Estudando JS, React, React Native e PHP.
+- 📫 Contate-me no email: tfportifolio.com.br
